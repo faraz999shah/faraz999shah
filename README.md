@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on studying for classes!<br>👯 I’m looking to collaborate on Full Stack Projects.<br>🤝 I’m looking for help with JavaScript.<br>🌱 I’m currently learning C++.<br><br>
+🔭 I’m currently studying for classes!<br>👯 I’m looking to collaborate on Full Stack Projects.<br>🤝 I’m looking for help with JavaScript.<br>🌱 I’m currently learning C++.<br><br>
 
 
 ## 🌐 Socials:
