@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying for classes!<br>👯 I’m looking to collaborate on Full Stack Projects.<br>🤝 I’m looking for help with JavaScript.<br>🌱 I’m currently learning C++.<br><br>
+🔭 I’m currently studying.
 
 
 ## 🌐 Socials:
@@ -12,5 +12,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=faraz999shah&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=faraz999shah&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
